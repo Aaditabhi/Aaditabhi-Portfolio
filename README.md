@@ -18,7 +18,7 @@ Welcome! This repo contains a collection of my projects.
 
 ---
 
-### [Project 3: LiftLogger (WIP)](./LiftLogger)
+### [Project 3: LiftLogger (WIP)](./LiftLogger.md)
 - Exercise tracker using spreadsheet cell-entry view that provides weekly insights and monitors progess over time using graphs
 - Tech: Swift, SwiftUI, XCode
 - Folder: `LiftLogger`
