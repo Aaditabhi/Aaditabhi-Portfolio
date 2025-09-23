@@ -16,7 +16,7 @@ Welcome to my project portfolio! This repo serves as a hub with links pointing t
 - Tech: Java
 
 
-### [Solitaire](https://github.com/aaditabhi/Flow)  
+### [Flow](https://github.com/aaditabhi/Flow)  
 - Recreation of mobile puzzle game Flow Free with custom data structures.
 - Tech: React.js
 
