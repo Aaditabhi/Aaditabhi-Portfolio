@@ -1,30 +1,3 @@
-# 🌟 My Project Portfolio
-
-Welcome! This repo contains a collection of my projects.
-
-## Projects
-
-### [Project 1: Minesweeper](./Minesweeper)
-- A recreation of the Minesweeper game
-- Tech: Java
-- Folder: `Minesweeper`
-
----
-
-### [Project 2: Flow](./Flow)
-- A recreation of the mobile game Flow
-- Tech: React.js, CSS
-- Folder: `Flow`
-
----
-
-### [Project 3: LiftLogger (WIP)](https://github.com/Aaditabhi/Lift-Logger)
-- Exercise tracker using spreadsheet cell-entry view that provides weekly insights and monitors progess over time using graphs
-- Tech: Swift, SwiftUI, XCode
-- Folder: `LiftLogger`
-
----
-
 # 💻 My Project Portfolio
 
 Welcome to my project portfolio! This repo serves as a hub with links pointing to repos of my projects!
@@ -33,7 +6,7 @@ Welcome to my project portfolio! This repo serves as a hub with links pointing t
 
 ## 🚀 Projects  
 
-### [Linear Graphing Calculator](https://github.com/aadit/linear-graphing-calculator)  
+### [Linear Graphing Calculator](https://github.com/aaditabhi/linear-graphing-calculator)  
 - Plots linear equations and coordinate points with adjustable zoom and responsive grid scaling.
 - Tech: JavaScript, Code.org, Code.org Canvas Library
 
