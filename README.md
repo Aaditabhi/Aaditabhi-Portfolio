@@ -20,11 +20,6 @@ Welcome to my project portfolio! This repo serves as a hub with links pointing t
 - Recreation of mobile puzzle game Flow Free with custom data structures.
 - Tech: React.js
 
-
-### [Lift Logger (WIP)](https://github.com/aaditabhi/lift-logger)
-- iOS app to log workouts, analyze statistics, and visualize progress.  
-- Tech: Swift, SwiftUI
-
   
 ---
 
